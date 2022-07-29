@@ -20,7 +20,7 @@
 
 .users:hover{
     transform: scale(1.1);
-    z-index: 10;
+    z-index: 1;
 }
 
 .user-image{
